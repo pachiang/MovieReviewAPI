@@ -1,0 +1,12 @@
+/.mvn
+/.settings
+/src
+/target
+/.classpath
+/.project
+/HELP.md
+/mvnw
+/mvnw.cmd
+/origitignore
+/pom.xml
+!/src/main/java
