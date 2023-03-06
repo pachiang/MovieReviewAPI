@@ -1,6 +1,10 @@
+## keep the application.properties
+/src/**/resources/**
+!/src/**/application.properties
+
 /.mvn
 /.settings
-/src
+/src/test
 /target
 /.classpath
 /.project
@@ -8,5 +12,3 @@
 /mvnw
 /mvnw.cmd
 /origitignore
-/pom.xml
-!/src/main/java
